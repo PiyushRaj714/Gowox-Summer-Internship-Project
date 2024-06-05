@@ -8,3 +8,5 @@
 # News Site
 ![image](https://github.com/PiyushRaj714/Gowox-Summer-Internship-Project/assets/84971685/0c6d247f-1aa6-4e95-b718-25c9afe48824)
 
+# Personal Blog
+![image](https://github.com/PiyushRaj714/Gowox-Summer-Internship-Project/assets/84971685/76ebff6b-551e-48b5-a577-270354220cbd)
